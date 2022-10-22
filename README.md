@@ -2,6 +2,9 @@
 Run your projects fast!.
 
 ## Changelogs
+
+#### `V1.0.1`
+  - added java and maven verifier 
 #### `V1.0.0`
   - added java-maven
 
