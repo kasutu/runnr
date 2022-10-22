@@ -1,5 +1,5 @@
 # RUNNR
-A bash script tool for lazy developers.
+Run your projects fast!.
 
 ## Changelogs
 #### `V1.0.0`
